@@ -110,3 +110,9 @@ Now we have the StepDefs.kt file and we can start implementing the steps, as wel
 ## Add JUnit runner
 
 To run our features from a JUnit runner, we’ll need to add one. In the `src/test/kotlin` folder, we add a new Kotlin File/Class, called RunKukesTest.
+
+## Running tests from the command line
+
+To run all tests use
+
+    mvn test
