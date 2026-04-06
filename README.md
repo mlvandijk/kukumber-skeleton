@@ -7,7 +7,7 @@ Fortunately, it is possible to use [cucumber-java8 in Kotlin](https://github.com
 
 If you’d like to follow along, make sure you have the following installed:
 - [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- An IDE; for instance [IntelliJ](https://www.jetbrains.com/idea/download/), which I use here.
+- An IDE; for instance [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), which I use here.
 - [Maven](https://maven.apache.org/)
 
 ## Add dependencies
