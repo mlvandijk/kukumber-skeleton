@@ -37,7 +37,7 @@ We use Maven, so we added the following dependencies to our pom.xml:
 
 Note: The cucumber-junit dependency is added so we can add a  JUnit Runner to run our tests, which we will do later. 
 
-*If you don’t have Kotlin already configured in your project, you’ll need to add those dependencies also (or have IntelliJ do it for you).*
+*If you don’t have Kotlin already configured in your project, you’ll need to add those dependencies also (or have IntelliJ IDEA do it for you).*
 
 ## Add a feature file
 
